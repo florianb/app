@@ -10,7 +10,7 @@
 ### Download this Sourcecode (using GitHub Desktop)
 
 1. Install [GitHub Desktop](https://desktop.github.com/)
-2. [Open this GitHub Repository with GitHub Desktop](x-github-client://openRepo/https://github.com/florianb/c-development-environment)
+2. Open this GitHub Repository with [GitHub Desktop](x-github-client://openRepo/https://github.com/florianb/c-development-environment)
 
 ## Contents
 
