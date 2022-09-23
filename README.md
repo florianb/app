@@ -47,8 +47,8 @@ Containers in the context of development are small operating instances which (in
 
 Then there are also another files - oops:
 
-- LICENSE - a license explicitly declaring the contents of this repository as open source.
-- README.md - this is me. :smile:
+- `LICENSE` - a license explicitly declaring the contents of this repository as open source.
+- `README.md` - this is me. :smile:
 
 
 ## Your Program
