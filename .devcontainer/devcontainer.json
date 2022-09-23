@@ -1,0 +1,12 @@
+{
+    "customizations": {
+        "vscode": {
+            "extensions": [
+				"ms-vscode.cpptools-extension-pack"
+			]
+        }
+    },
+    "workspaceFolder": "/app",
+    "dockerComposeFile": "../docker-compose.yml",
+    "service": "app"
+}

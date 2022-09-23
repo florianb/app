@@ -1,0 +1,14 @@
+version: '3.7'
+services:
+  app:
+    build:
+      # Dockerfile in Projektverzeichnis nutzen
+      context: .
+      # "development" build target nutzen
+      target: devenv
+      # Nutzer und Gruppe für Dateisystemberechtigungen weitergeben
+    volumes:
+      # Verlinke generisches "app" verzeichnis
+      - type: bind
+        source: .
+        target: /app
