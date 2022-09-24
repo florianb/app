@@ -69,7 +69,3 @@ Every other file in this repository is up to you. Usually developers put their s
 
 - `main.c` - the main entry point for the app.
 - `main` - your compiled executable, ready to be called by you (if this file is missing, just hit debug & run)!
-
-
----
-MIT License
