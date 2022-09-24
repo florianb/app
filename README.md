@@ -1,6 +1,12 @@
 # C Development Environment
  Docker based C development environment for VSCode
 
+## Requirements
+
+### Windows
+
+- [WSL2](https://learn.microsoft.com/de-de/windows/wsl/install) is installed and enabled
+
 ## Getting Started
 
 1. Install [Docker Desktop](https://www.docker.com/products/docker-desktop/)
@@ -10,7 +16,13 @@
 ### Download this Sourcecode (using GitHub Desktop)
 
 1. Install [GitHub Desktop](https://desktop.github.com/)
-2. Open this GitHub Repository with [GitHub Desktop](x-github-client://openRepo/https://github.com/florianb/c-development-environment)
+2. Open this GitHub Repository with GitHub Desktop using the green "clone" button at the upper right corner of the repo page on GitHub.
+
+### Run the Repository
+
+1. After cloning and saving this repository, open the directory in VSCode
+2. When VSCode asks you if you trust the author accept it.
+3. VSCode will you know inform you it detected a Development Container and offers you to "Reopen
 
 ## Contents
 
